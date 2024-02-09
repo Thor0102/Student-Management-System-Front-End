@@ -1,0 +1,1 @@
+export const  SERVER_ACCESS_URL = "https://student-management-system-back-end-ucu7.onrender.com"
